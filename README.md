@@ -5,6 +5,10 @@
 
 The Proactive Health Platform is a comprehensive solution designed to empower users to take control of their health by seamlessly integrating data from various healthcare devices. It provides intuitive data visualization, actionable insights, and robust security to ensure compliance with healthcare regulations.
 
+## System Context (C4) ##
+
+![System Context](C4_SystemContext.png)
+
 ## Business Capabilities
 
 ### Data Integration
