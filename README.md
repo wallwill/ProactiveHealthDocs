@@ -7,7 +7,7 @@ Generated with the aid of AI.
 
 The Proactive Health Platform is a comprehensive solution designed to empower users to take control of their health by seamlessly integrating data from various healthcare devices. It provides intuitive data visualization, actionable insights, and robust security to ensure compliance with healthcare regulations.
 
-USP:  Share all your personal healthcare provider with the click of a button in real-time.
+USP:  Share all your personal healthcare info securely with your healthcare doctor or provider with the click of a button in real-time.
 
 
 ## System Context (C4) ##
