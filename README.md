@@ -1,4 +1,5 @@
 # Proactive Health Platform
+![Proactive Health Platform Logo](PhP.png)
 
 ## Product Overview
 
